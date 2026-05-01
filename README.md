@@ -1,4 +1,4 @@
-# Claude Code Agentic RAG Masterclass
+# RAG-application-built-with-AI-assistance-(Claude-Vibe-coding)
 
 Build an agentic RAG application from scratch by collaborating with Claude Code. 
 
