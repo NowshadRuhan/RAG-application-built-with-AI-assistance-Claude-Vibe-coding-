@@ -1,4 +1,4 @@
-# Agentic RAG Masterclass - PRD
+# Agentic RAG - PRD
 
 ## What We're Building
 
